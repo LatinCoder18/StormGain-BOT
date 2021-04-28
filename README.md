@@ -1,28 +1,52 @@
 # Stormgain_Bot
-Full automated bot thats claims the Stormgain Miner, only for test purposes and learning!
-The folder assignments are currently set to windows.
 
+Bot automatizado para reclamar las recompenzas del minero en Stormgain usalo bajo tu propio riesgo.
 
+  
+  
+  
 
-# To do:
-* [Please register with a new account using the reflink from my buddy!](https://app.stormgain.com/friend/BNS16257368)
-* If you don't know Python then please have a look at the [RELEASES](https://github.com/miningseven/Stormgain_Bot/releases).
-* Install Python3+:
-  ```shell
-     python3 -m pip install selenium 
-   ```
-* Download the last Version from chromedriver.exe:
-  * [chromedriver download](https://chromedriver.chromium.org/)
-  * Place chromedriver.exe inside stormgain.py folder!
-  * Make sure that Chromedriver and ChromeBrowser are on the same version!
+# Pasos a seguir:
 
-* fill settings.json with your userdata
-* run:
-  ```shell
-    python3 stormgain.py
-    ``` 
+*  [Por favor registrese con una nueva cuenta en StormGain!](https://bit.ly/StormGainCuba)
 
-# Additional
-* [Here you can rent a fast and cheap VPS!](https://deinserverhost.de/store/aff.php?aff=3606)
-* if you need support:
-  * [Join Discord](https://discord.gg/YcDZskNUMp)
+  
+
+* Instala Python3+:
+
+```shell
+
+python3 -m pip install selenium
+
+```
+
+* Descarga la última version de chromedriver.exe:
+
+*  [Descarga de ChromeDriver](https://chromedriver.chromium.org/)
+
+* Pon el archivo chromedriver.exe dentro de la carpeta de stormgain.py
+
+* Asegúrate de que ChromeDriver y Chrome Browser estén en la misma versión!
+
+  
+
+* Llena el archivo settings.json con tus datos
+
+* Ejecuta:
+
+```shell
+
+python3 stormgain.py
+
+```
+
+  
+
+# Adicional
+
+*  [Aqui puedes encontrar VPS Baratos para Windows!](https://deinserverhost.de/store/aff.php?aff=4056)
+![enter image description here](https://deinserverhost.de/store/images/tca/600x150_white.png)
+
+* Si necesitas ayuda o necesita algun bot para otra plataforma puedes:
+
+*  [Únete a nuestro canal de Telegram](https://t.me/ElitecnologicaGroup)
