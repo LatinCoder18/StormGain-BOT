@@ -50,3 +50,4 @@ python3 stormgain.py
 * Si necesitas ayuda o necesita algun bot para otra plataforma puedes:
 
 *  [Únete a nuestro canal de Telegram](https://t.me/ElitecnologicaGroup)
+*  Código fuente original de https://github.com/miningseven/Stormgain_Bot/
