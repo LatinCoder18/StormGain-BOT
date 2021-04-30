@@ -3,7 +3,7 @@
 Bot automatizado para reclamar las recompenzas del minero en Stormgain usalo bajo tu propio riesgo.
 
   
-  
+[![Auto Minning StormGain](https://img.youtube.com/vi/FHoTj4Ug_0o/0.jpg)](https://www.youtube.com/watch?v=FHoTj4Ug_0o)
   
 
 # Pasos a seguir:
