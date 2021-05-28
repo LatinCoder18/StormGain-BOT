@@ -8,7 +8,7 @@ Bot automatizado para reclamar las recompenzas del minero en Stormgain usalo baj
 
 # Pasos a seguir:
 
-*  [Por favor registrese con una nueva cuenta en StormGain!](https://bit.ly/StormGainCuba)
+*  [Por favor registrese con una nueva cuenta en StormGain!](https://bit.ly/2TnMcou)
 *  [Video explicativo](https://youtu.be/FHoTj4Ug_0o)
 
   
