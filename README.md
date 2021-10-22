@@ -52,3 +52,5 @@ python3 stormgain.py
 
 *  [Únete a nuestro canal de Telegram](https://t.me/ElitecnologicaGroup)
 *  Código fuente original de https://github.com/miningseven/Stormgain_Bot/
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=95c9309a5c1e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
